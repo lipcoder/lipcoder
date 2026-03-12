@@ -14,11 +14,9 @@
 ## Graphics
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipcoder&theme=react&hide=ruby&count_private=true&show_icons=true&layout=compact&hide_border=true" />
-  <img width="12" />
-  <img height="165" src="https://streak-stats.demolab.com?user=lipcoder&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipcoder&hide=ruby&count_private=true&show_icons=true&layout=compact&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://streak-stats.demolab.com?user=lipcoder&theme=transparent&hide_border=true" />
   <br />
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=lipcoder&theme=react&hide_border=true" />
 </div>
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎你来看我的GitHub主页;可以给我发邮件一起聊一聊) -->
