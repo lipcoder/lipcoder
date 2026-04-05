@@ -29,3 +29,9 @@
 </div>
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎你来看我的GitHub主页;可以给我发邮件一起聊一聊) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipcoder/lipcoder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lipcoder/lipcoder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lipcoder/lipcoder/output/github-snake.svg" />
+</picture>
