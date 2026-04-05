@@ -15,21 +15,6 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lipcoder&hide=ruby&count_private=true&show_icons=true&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lipcoder&hide=ruby&count_private=true&show_icons=true&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f"
-    />
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipcoder&hide=ruby&count_private=true&show_icons=true&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f"
-    />
-  </picture>
-  <img width="12" />
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=lipcoder&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
     />
     <source
