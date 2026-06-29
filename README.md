@@ -5,9 +5,9 @@
 ## Platform&Tools
 
 * [![](https://img.shields.io/badge/ArchLinux--purple?style=flat-square&logo=ArchLinux)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/macOS--000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 * [![](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Vim-Editor-green?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
-[![](https://img.shields.io/badge/GoLand-IDE-00ACC1?style=flat-square&logo=goland&logoColor=white)](https://www.jetbrains.com/go/promo/)
 
 ## Graphics
 
